@@ -1,0 +1,26 @@
+# Fichiers système Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Fichiers système macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Fichiers système Linux
+*~
+.directory
+
+# Fichiers temporaires
+*.tmp
+*.swp
+*.log
+*.cache
+
+# Dossiers à ignorer
+node_modules/
+.vscode/
+.idea/
