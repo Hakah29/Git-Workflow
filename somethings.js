@@ -1,5 +1,5 @@
 const min = 5;
 const max = 25;
-for (let index = 0; index < 10; index++) {
+for (let index = min; index < max; index++) {
     console.log(index);
 }
